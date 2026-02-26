@@ -7,6 +7,7 @@ import Contact from "./components/Contact";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import Order from "./components/Order";
+import logo
 import "./style.css";
 
 
